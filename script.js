@@ -1,7 +1,7 @@
 // Array of special characters to be included in password
 
-var anumber=2
-
+var passwordLength = parseInt(prompt("how long do you want your passwrod to be"))
+console.log(passwordLength)
 
 
 var specialCharacters = [
@@ -143,6 +143,4 @@ generateBtn.addEventListener('click', writePassword);
 //   * Code should validate for each input and at least one character type should be selected
 //   * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
 
-generatePassword(10)
-generatePassword(15)
-generatePassword(20)
+generatePassword(passwordLength)
