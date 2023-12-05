@@ -2,8 +2,9 @@
 
 ## Overview
 
-Link to webpage:
-Github repository: 
+Link to webpage: https://ptak18.github.io/password-generator/
+
+Github repository: https://github.com/ptak18/password-generator
 
 Password Generator Challenge
 
