@@ -21,12 +21,13 @@ Length of password: At least 8 characters but no more than 128.
 Character types: Lowercase, uppercase, numeric, special characters ($@%&*, etc.)
 Validate user input:
 
-*Ensure the password length is within the specified range.
-*Ensure at least one character type has been selected.
-*Generate and display the password:
+Ensure the password length is within the specified range.
 
-Once all prompts are answered, generate a password that meets the selected criteria.
-Display the password in an alert or written to the page.
+Ensure at least one character type has been selected.
+
+Generate and display the password:
+
+Once all prompts are answered, a password that meets the selected criteria will be generated and displayed in an alert or written to the page.
 
 
 Example with some images to test out the code. I opted to go for 22 characters.
