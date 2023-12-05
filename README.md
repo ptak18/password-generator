@@ -1,8 +1,12 @@
 # Module 5 Challenge: Password Generator
 
 ## Overview
+
+Link to webpage:
+Github repository: 
+
 Password Generator Challenge
-Overview
+
 This challenge requires you to create an application that generates random passwords based on criteria selected by the user. The application should be written in JavaScript and have a clean and polished user interface that is responsive to different screen sizes.
 
 Requirements
@@ -24,4 +28,23 @@ Once all prompts are answered, generate a password that meets the selected crite
 Display the password in an alert or written to the page.
 
 
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+Example with some images to test out the code. I opted to go for 22 characters.
+
+
+![screenshot](pg-1.1.png)
+
+
+
+![screenshot](pg-2.png) Prompt to use numbers
+
+
+
+![screenshot](./pg-3.png) Prompt to use Special Characters
+
+
+
+![screenshot](./pg-4.png) Prompt for Uppercase Characters
+
+
+
+![screenshot](pg-5.png) An example showing a 22 character password, as opted for in the first prompt, when button is clicked.   
